@@ -1,0 +1,17 @@
+name: js_unpacker
+description: Dart translation of jsbeautify's unpacker for Dean Edward's p.a.c.k.e.r
+version: 0.0.1
+author: Felix Müller
+homepage: https://github.com/f3l1x98/js_unpacker
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sprintf: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
